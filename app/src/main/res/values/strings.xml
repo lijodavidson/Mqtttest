@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mqtttest</string>
+
+    <string name="hello_world">MQTT FINAL TEST</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mq2">Mq2</string>
+    <string name="title_activity_home">home</string>
+</resources>
