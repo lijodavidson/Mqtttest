@@ -44,7 +44,8 @@ public class Mq2 extends Activity {
         String clientId = MqttClient.generateClientId();
         final MqttAndroidClient client =
                 new MqttAndroidClient(this.getApplicationContext(), "tcp://10.50.8.24:9244", clientId);
-                /* new MqttAndroidClient(this.getApplicationContext(), "tcp://10.50.17.78:1883", clientId);*/
+
+
 
 
 
